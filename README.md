@@ -7,4 +7,4 @@ https://raw.githubusercontent.com/elanpa/yomiwnacg/repo/index.min.json
 https://cdn.jsdelivr.net/gh/elanpa/yomiwnacg@repo/index.min.json
 
 keiyoushi官方仓库2026年8月起已改用repo.json+index.pb新方案，旧格式索引里只剩“请更新 App”的占位条目
-旧版Aniyomi从官方仓库已拿不到wnacg了，也不兼容新版插件
+旧版App从官方仓库已拿不到wnacg了，也不兼容新版插件
