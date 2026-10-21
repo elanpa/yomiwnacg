@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: 紳士漫畫",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
+    "apk": "tachiyomi-zh.wnacg-v1.4.24-patched.apk",
+    "lang": "zh",
+    "code": 24,
+    "version": "1.4.24",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "紳士漫畫",
+        "lang": "zh",
+        "id": "6452519872145698301",
+        "baseUrl": "https://www.wn001.cfd"
+      }
+    ]
+  }
+]
